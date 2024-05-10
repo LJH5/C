@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/RND_220516/Documents/C/basic",
-      "program": "c:/Users/RND_220516/Documents/C/basic/build/Debug/outDebug",
+      "cwd": "c:/Users/RND_220516/Documents/C/test",
+      "program": "c:/Users/RND_220516/Documents/C/test/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
